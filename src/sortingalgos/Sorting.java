@@ -34,12 +34,6 @@ public class Sorting {
         //sortingAlgorithmsInsertionSort.sort(inputFromUser);
         System.out.println("After Sorting: ");
         inputFromUser.forEach(value -> System.out.println(value));
-        /*for (int i=0;i<y.length;i++){
-        System.out.println("given "+i"th no"+"is"+y[i]);
-        }
-        for (int i=y.length;i>;i--) {
-
-        }*/
     }
 
 
